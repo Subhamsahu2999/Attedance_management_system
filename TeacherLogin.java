@@ -110,7 +110,7 @@ public class TeacherLogin extends JFrame {
 					}
 					else {
 						
-						 JOptionPane.showMessageDialog(null,"Please Enter Coreect Username and Password",pass, JOptionPane.ERROR_MESSAGE);
+						 JOptionPane.showMessageDialog(null,"Please Enter Correct Username and Password",pass, JOptionPane.ERROR_MESSAGE);
 							edtusername.setText(null);
 							edtpassword.setText(null);
 						
